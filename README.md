@@ -9,4 +9,4 @@ Web game using React JS, Tailwind CSS
   <li>Tailwind CSS</li>
 </ul>
 
-<a href="https://tic-tac-game-moorfo.netlify.app/" target="_black">tic-tac-game-moorfo.netlify.app/</a>
+<a href="https://tic-tac-game-moorfo.netlify.app/" target="_blank">tic-tac-game-moorfo.netlify.app/</a>
